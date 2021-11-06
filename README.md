@@ -2,6 +2,6 @@
 
 | 文件名 | 内容 |
 | ------ | ---- |
-| Structure | C 程序结构|
+| [Structure](/Structure) | C 程序结构|
 
 
