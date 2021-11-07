@@ -5,3 +5,4 @@
 | [Structure](/Structure) | C 程序结构|
 | [DataType](/DataType)   | C 数据类型|
 | [Variable](/Variable)   | C 变量    |
+| [Constant](/Constant)   | C 常量    |
