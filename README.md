@@ -6,21 +6,6 @@
 ```sh
 gcc -v
 ```
-如果没有, 使用:
-#### Ubuntu:
-```sh
-sudo apt update
-sudo apt install build-essential
-```
-#### CentOS / Fedora:
-```sh
-sudo yum -y install gcc gcc-c++ autoconf make
-```
-#### Arch / Manjaro:
-```sh
-sudo pacman -S gcc
-```
-
 ### `windows` 下:
 为了在 Windows 上安装 GCC，您需要安装 MinGW <br>
 请访问 MinGW 的[主页](https://www.mingw-w64.org/) <br>
@@ -34,3 +19,4 @@ sudo pacman -S gcc
 | [DataType](/DataType)   | C 数据类型|
 | [Variable](/Variable)   | C 变量    |
 | [Constant](/Constant)   | C 常量    |
+| [Operators](/Operators) | C 运算符  |
