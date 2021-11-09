@@ -20,3 +20,5 @@ gcc -v
 | [Variable](/Variable)   | C 变量    |
 | [Constant](/Constant)   | C 常量    |
 | [Operators](/Operators) | C 运算符  |
+| [Judge](/Judge)         | C 判断    |
+| [Cycle](/Cycle)         | C 循环    |
