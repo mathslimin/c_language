@@ -22,3 +22,4 @@ gcc -v
 | [Operators](/Operators) | C 运算符  |
 | [Judge](/Judge)         | C 判断    |
 | [Cycle](/Cycle)         | C 循环    |
+| [Function](/Function)   | C 函数    |
