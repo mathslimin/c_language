@@ -23,3 +23,5 @@ gcc -v
 | [Judge](/Judge)         | C 判断    |
 | [Cycle](/Cycle)         | C 循环    |
 | [Function](/Function)   | C 函数    |
+| [Array](/Array)         | C 数组    |
+| [Enumerate](/Enumerate) | C 枚举    |
