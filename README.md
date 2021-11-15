@@ -25,3 +25,4 @@ gcc -v
 | [Function](/Function)   | C 函数    |
 | [Array](/Array)         | C 数组    |
 | [Enumerate](/Enumerate) | C 枚举    |
+| [Pointer](/Pointer)     | C 指针    |
