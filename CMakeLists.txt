@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(c_language)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_subdirectory(src/Array)
+add_subdirectory(src/Constant)
+add_subdirectory(src/Cycle)
+add_subdirectory(src/DataType)
+add_subdirectory(src/Enumerate)
+add_subdirectory(src/Function)
+add_subdirectory(src/Judge)
+add_subdirectory(src/Operators)
+add_subdirectory(src/Pointer)
+add_subdirectory(src/Structure)
+add_subdirectory(src/Variable)
