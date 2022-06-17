@@ -26,3 +26,5 @@ gcc -v
 | [Array](/Array)         | C 数组    |
 | [Enumerate](/Enumerate) | C 枚举    |
 | [Pointer](/Pointer)     | C 指针    |
+### 如何运行
+vscode 按F5
